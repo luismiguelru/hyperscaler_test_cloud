@@ -1,0 +1,7 @@
+*.pyc
+htmlcov
+.coverage
+coverage.xml
+.hyperscaler_test_cloud_dev.env
+node_modules
+ui/tests/coverage
